@@ -8,4 +8,6 @@ class App extends React.Component {
     }
 }
 
+//const App = () => <h1> Banaan </h1>
+
 export default App;
